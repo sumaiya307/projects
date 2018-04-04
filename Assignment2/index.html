@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Sumaiya Saleem </title>
+	<link rel="stylesheet" type="text/css" href="styles.css"/>
+</head>
+<body>
+
+<header> <div class="cursivefont"> Sumaiya Saleem  </div> </header>
+
+<div class="headfont">
+<nav>
+	<ul>
+ 	 <li><a class="active" href="index.html">home</a></li>
+ 	 <li><a href="portfolio.html">portfolio</a></li>
+ 	 <li><a href="resume.html">resume</a></li>
+ 	 <li><a href="process.html">process</a></li>
+ 	 <li><a href="contact.html">contact</a></li>
+	</ul>
+</nav>
+
+<article> 
+
+<p><img class="pic" id="mypic" src="resources/me.png" width="400px" height="400px" /></p>  
+	
+	<p class="bio">
+		 Hi! I'm Sumaiya. <br/>
+		A second year Bachelor of Arts student at the University of Toronto Mississauga. I 		am currently specializing in Digital Enterprise Management, which focuses on technology, management, and communication. <br/>
+		I am looking to gain experience in a field of technology and design where I can learn and contribute to a greater cause.
+		</p>
+
+</article>
+<footer>
+	Sumaiya Saleem, 2018<br/> CCT260
+</footer>
+</div>
+</body>
+</html>
